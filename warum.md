@@ -6,20 +6,45 @@ Ich habe (die allerbasicsten) Basics gelernt, mit denen ich jetzt eigene Kurse/I
 Eigentlich ist es für Open Educational Ressources gedacht. 
 Ich weiß noch nicht ob ich es in meinem Leben gebrauchen kann, finde es aber cool, dass es klappt. 
 
-# COOL
+
+
+<section>
+
+SUPI
+======
+
 Ich kann ganz aufregende Dinge damit machen
 
 - Listen
 - Quizze
-- Dinge *anders* **schreiben** ***juhu***
-- Coole Links einfügen wie zur [Fischklingel](https://visdeurbel.nl/about-the-fishdoorbell)
+- ^Dinge^ *anders* **schreiben** ***~~juhu~~***
+- Coole Links einfügen wie zur [Fischklingel](https://visdeurbel.nl/)
 - Nicht ganz so coole aber genauso hilfreiche Links einfügen wie zum [LiaScript Handbuch](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1) 
 
-# Zeit für ein Quiz
+
+___________________________________________________________________________________________
+
+
+
+## Zeit für ein Quiz
 Findest du das auch cool? 
 
 [[X]] Ja 
 [[ ]] Nein 
 [[ ]] Irgendeine dritte Antwort
 
-Es hat allerdings ca fünftausend Jahre gedauert und keinen Spaß gemacht
+Das Veröffentlichen hat allerdings ca fünftausend Jahre gedauert und keinen Spaß gemacht
+
+:-)
+
+</section>
+
+
+# Neue Seite neuues Glück 
+
+| Tabellen             |      gehen    |  auch |
+| -------------------- |:-------------:| -----:|
+| *** xyz          *** | wow           | 1     |
+| ** ö           **    |   c           |     2 |
+| * zebra         *    |   ?           |    3  |
+
